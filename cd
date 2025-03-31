@@ -1,3 +1,0 @@
-cd /path/to/root/of/project/
-git add index.html
-git commit -m "Move index.html to root directory"
